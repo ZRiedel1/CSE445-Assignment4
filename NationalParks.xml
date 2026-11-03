@@ -56,7 +56,7 @@
 		<Name>Bryce Canyon</Name>
 		<Phone>435-834-5322</Phone>
 		<Address NearestAirport="Cedar City">
-			<Number>0</Number>
+			<Number>64</Number>
 			<Street>Highway 63</Street>
 			<City>Bryce</City>
 			<State>UT</State>
@@ -69,7 +69,7 @@
 		<Name>Arches</Name>
 		<Phone>435-719-2299</Phone>
 		<Address NearestAirport="Canyonlands Field">
-			<Number>0</Number>
+			<Number>85</Number>
 			<Street>US Highway 191</Street>
 			<City>Moab</City>
 			<State>UT</State>
